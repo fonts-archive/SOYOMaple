@@ -1,20 +1,28 @@
 @font-face {
-    font-family: 'SOYO Maple';
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/SOYOMaple/SOYOMaple-Regular.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/SOYOMaple/SOYOMaple-Regular.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/SOYOMaple/SOYOMaple-Regular.otf') format('opentype'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/SOYOMaple/SOYOMaple-Regular.ttf') format('truetype');
+  font-family: "SOYO Maple";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("https://cdn.jsdelivr.net/gh/fonts-archive/SOYOMaple/SOYOMaple-Regular.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/fonts-archive/SOYOMaple/SOYOMaple-Regular.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/fonts-archive/SOYOMaple/SOYOMaple-Regular.otf")
+      format("opentype"),
+    url("https://cdn.jsdelivr.net/gh/fonts-archive/SOYOMaple/SOYOMaple-Regular.ttf")
+      format("truetype");
 }
 @font-face {
-    font-family: 'SOYO Maple';
-    font-weight: 700;
-    font-style: normal;
-    font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/SOYOMaple/SOYOMaple-Bold.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/SOYOMaple/SOYOMaple-Bold.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/SOYOMaple/SOYOMaple-Bold.otf') format('opentype'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/SOYOMaple/SOYOMaple-Bold.ttf') format('truetype');
+  font-family: "SOYO Maple";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("https://cdn.jsdelivr.net/gh/fonts-archive/SOYOMaple/SOYOMaple-Bold.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/fonts-archive/SOYOMaple/SOYOMaple-Bold.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/fonts-archive/SOYOMaple/SOYOMaple-Bold.otf")
+      format("opentype"),
+    url("https://cdn.jsdelivr.net/gh/fonts-archive/SOYOMaple/SOYOMaple-Bold.ttf")
+      format("truetype");
 }
